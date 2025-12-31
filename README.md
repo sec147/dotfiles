@@ -1,4 +1,4 @@
-#dotfiles
+# dotfiles
 
 clone to ~/dotfiles folder
 
